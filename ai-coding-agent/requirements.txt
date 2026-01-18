@@ -1,0 +1,7 @@
+click
+pydantic
+tomli
+platformdirs
+openai
+rich
+python-dotenv
