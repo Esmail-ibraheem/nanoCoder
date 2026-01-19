@@ -40,6 +40,10 @@
    ```bash
    pip install -r requirements.txt
    ```
+3. run main file
+   ```bash
+   python main.py
+   ```
 
 #### Docker Setup (Recommended)
 <img width="612" height="408" alt="ChatGPT_Image_Jan_19__2026__04_12_17_PM-removebg-preview" src="https://github.com/user-attachments/assets/148e1f88-839e-4004-a489-e4b1d1a0cf21" />
@@ -94,22 +98,6 @@ export BASE_URL="https://openrouter.ai/api/v1"
 
 <img width="804" height="428" alt="UI Showcase" src="https://github.com/user-attachments/assets/d8b602b8-dac9-45a4-8a72-ecb938232864" />
 
-## 💻 Usage
-
-### Running Locally
-```bash
-python main.py
-```
-
-### Running with Docker
-To enable nanoCoder to work on your local files, map your current directory to the container:
-```bash
-docker run -it \
-  -v "$(pwd):/app/workspace" \
-  -e API_KEY="$API_KEY" \
-  -e BASE_URL="$BASE_URL" \
-  YOUR_DOCKER_USERNAME/nanocoder:latest
-```
 
 
 ## 🤝 Contribution
@@ -121,6 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
