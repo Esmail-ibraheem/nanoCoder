@@ -1,6 +1,3 @@
-<img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
-
-
   <div align="center">
   <h1>nanoCoder</h1>
   <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
@@ -45,10 +42,15 @@
    ```
 
 #### Docker Setup (Recommended)
+![ChatGPT Image Jan 19, 2026, 04_12_17 PM](https://github.com/user-attachments/assets/514cc5bf-34d4-41a8-9f56-aa68f12a5383)
+
 You can run nanoCoder without manual installation using Docker:
 ```bash
 docker pull YOUR_DOCKER_USERNAME/nanocoder:latest
 ```
+
+<img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
+
 
 ### ⚙️ Configuration
 
@@ -105,6 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
