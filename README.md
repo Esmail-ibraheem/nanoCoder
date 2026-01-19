@@ -44,10 +44,21 @@
 #### Docker Setup (Recommended)
 <img width="612" height="408" alt="ChatGPT_Image_Jan_19__2026__04_12_17_PM-removebg-preview" src="https://github.com/user-attachments/assets/148e1f88-839e-4004-a489-e4b1d1a0cf21" />
 
-You can run nanoCoder without manual installation using Docker:
+**Run from Docker Hub:**
 ```bash
 docker pull esmailg/nanocoder:latest
+docker run -it -e API_KEY="your_api_key" esmailg/nanocoder:latest
 ```
+
+**Build from Source:**
+1. **Build the image**:
+   ```bash
+   docker build -t nanocoder .
+   ```
+2. **Run the image**:
+   ```bash
+   docker run -it -v "$(pwd):/app/workspace" -e API_KEY="your_api_key" nanocoder
+   ```
 
 <img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
 
@@ -89,14 +100,6 @@ docker run -it \
   YOUR_DOCKER_USERNAME/nanocoder:latest
 ```
 
-## 🛠 Tech Stack
-
-- **Core**: Python 3.10+
-- **LLM Client**: `httpx`, `openai`
-- **UI**: `rich` (Terminal User Interface)
-- **Configuration**: `pydantic`, `python-dotenv`
-- **Search**: `ddgs` (DuckDuckGo Search)
-- **Containerization**: Docker
 
 ## 🤝 Contribution
 
@@ -107,6 +110,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
