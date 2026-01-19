@@ -1,6 +1,7 @@
 <img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
 
 
+  <div align="center">
   <h1>nanoCoder</h1>
   <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
 
@@ -104,6 +105,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
