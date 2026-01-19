@@ -3,7 +3,7 @@
   <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
 
   [![Docker Hub](https://img.shields.io/docker/pulls/esmailg/nanocoder?logo=docker&style=flat-square)](https://hub.docker.com/repository/docker/esmailg/nanocoder/general)
-  [![License](https://img.shields.io/github/license/Esmail-ibraheem/nanoCoder/tree/main?style=flat-square)](https://github.com/Esmail-ibraheem/nanoCoder/tree/main#)
+   [![License](https://img.shields.io/github/license/Esmail-ibraheem/nanoCoder?style=flat-square)](https://github.com/Esmail-ibraheem/nanoCoder/tree/main?tab=MIT-1-ov-file#)
   [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&style=flat-square)](https://www.python.org/)
 </div>
 
@@ -105,6 +105,7 @@ export BASE_URL="https://openrouter.ai/api/v1"
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
 ---
+
 
 
 
