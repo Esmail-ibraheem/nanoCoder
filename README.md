@@ -37,7 +37,7 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Esmail-ibraheem/nanoCoder.git
-   cd nanoCoder/ai-coding-agent
+   cd nanoCoder
    ```
 2. **Install dependencies**:
    ```bash
@@ -105,3 +105,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
