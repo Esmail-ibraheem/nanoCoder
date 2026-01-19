@@ -5,7 +5,7 @@
   <h1>nanoCoder</h1>
   <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
 
-  [![Docker Hub](https://img.shields.io/docker/pulls/YOUR_DOCKER_USERNAME/nanocoder?logo=docker&style=flat-square)](https://hub.docker.com/r/YOUR_DOCKER_USERNAME/nanocoder)
+  [![Docker Hub](https://img.shields.io/docker/pulls/YOUR_DOCKER_USERNAME/nanocoder?logo=docker&style=flat-square)](https://hub.docker.com/repository/docker/esmailg/nanocoder/general)
   [![License](https://img.shields.io/github/license/Esmail-ibraheem/nanoCoder?style=flat-square)](LICENSE)
   [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&style=flat-square)](https://www.python.org/)
 </div>
@@ -105,5 +105,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
