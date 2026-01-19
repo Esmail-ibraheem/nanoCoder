@@ -1,4 +1,10 @@
-# AI Agent
+# nanoCoder
+
+<img width="890" height="204" alt="Annotation 2026-01-19 150903" src="https://github.com/user-attachments/assets/e2c82cb1-5293-4b54-98d9-141085113417" />
+
+
+<img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
+
 
 An AI agent that can execute tasks using tools and manage conversations.
 
@@ -77,3 +83,4 @@ An AI agent that can execute tasks using tools and manage conversations.
 - Terminal UI with formatted output
 - Command interface: /help, /config, /tools, /mcp, /stats, /save, /resume, /checkpoint, /restore
 - Real-time tool call visualization
+
