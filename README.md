@@ -46,7 +46,7 @@
 
 You can run nanoCoder without manual installation using Docker:
 ```bash
-docker pull YOUR_DOCKER_USERNAME/nanocoder:latest
+docker pull esmailg/nanocoder:latest
 ```
 
 <img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
@@ -107,6 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
