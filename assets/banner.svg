@@ -1,0 +1,34 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b0b0b"></stop>
+      <stop offset="100%" stop-color="#141414"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"></rect>
+
+  <!-- Vertical terminal line -->
+  <rect x="40" y="40" width="4" height="220" fill="#ffee00"></rect>
+
+  <!-- Main Title -->
+  <text x="80" y="160" font-family="monospace" font-size="120" font-weight="900" letter-spacing="6" fill="#ffee00" filter="url(#glow)">
+    NANOCODER
+  </text>
+
+  <!-- Subtitle -->
+  <text x="85" y="205" font-family="monospace" font-size="20" fill="#7df9ff">
+    Your specialized AI assistant for deep coding tasks
+  </text>
+</svg>
