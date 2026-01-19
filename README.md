@@ -1,7 +1,7 @@
 <img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Esmail-ibraheem/nanoCoder/main/assets/ChatGPT%20Image%20Jan%2019,%202026,%2004_12_17%20PM.png" width="250" alt="nanoCoder Logo" />
+  <img src="https://github.com/Esmail-ibraheem/nanoCoder/blob/main/assets/ChatGPT%20Image%20Jan%2019%2C%202026%2C%2004_12_17%20PM.png" width="250" alt="nanoCoder Logo" />
   <h1>nanoCoder</h1>
   <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
 
@@ -105,4 +105,5 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
