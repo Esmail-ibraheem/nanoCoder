@@ -42,7 +42,7 @@
    ```
 
 #### Docker Setup (Recommended)
-![ChatGPT Image Jan 19, 2026, 04_12_17 PM](https://github.com/user-attachments/assets/514cc5bf-34d4-41a8-9f56-aa68f12a5383)
+<img width="612" height="408" alt="ChatGPT_Image_Jan_19__2026__04_12_17_PM-removebg-preview" src="https://github.com/user-attachments/assets/148e1f88-839e-4004-a489-e4b1d1a0cf21" />
 
 You can run nanoCoder without manual installation using Docker:
 ```bash
@@ -107,6 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
