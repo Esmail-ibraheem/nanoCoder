@@ -56,8 +56,19 @@ docker run -it -e API_KEY="your_api_key" esmailg/nanocoder:latest
    docker build -t nanocoder .
    ```
 2. **Run the image**:
+   - **Basic run**
+     ```bash
+     docker run -it -e API_KEY="your_api_key" -e BASE_URL="https://openrouter.ai/api/v1" nanocoder
+     ```
+   - With File Access
+To let the agent read/write files in your current directory:
+
    ```bash
-   docker run -it -v "$(pwd):/app/workspace" -e API_KEY="your_api_key" nanocoder
+   docker run -it \
+    -v "$(pwd):/app/workspace" \
+    -e API_KEY="$API_KEY" \
+    -e BASE_URL="$BASE_URL" \
+    nanocoder
    ```
 
 <img width="900" height="499" alt="image" src="https://github.com/user-attachments/assets/f3e072b9-f3e5-492b-8ec4-df656eec615a" />
@@ -110,6 +121,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 <div align="center">
   <p>Developed with ❤️ by the Advanced Agentic Coding team.</p>
 </div>
+
 
 
 
