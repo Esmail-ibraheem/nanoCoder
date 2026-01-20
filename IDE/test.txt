@@ -1,0 +1,3 @@
+Hello World
+This is a test file.
+Welcome to the Python IDE.
