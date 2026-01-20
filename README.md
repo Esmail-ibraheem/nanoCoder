@@ -1,6 +1,6 @@
   <div align="center">
   <h1>nanoCoder</h1>
-  <p><strong>Your specialized AI assistant for deep coding tasks.</strong></p>
+  <p><strong>Your specialized AI assistant for deep coding tasks.</strong> dockerized version and more beautiful TUI for this https://github.com/RivaanRanawat/ai-coding-agent</p>
 
   [![Docker Hub](https://img.shields.io/docker/pulls/esmailg/nanocoder?logo=docker&style=flat-square)](https://hub.docker.com/repository/docker/esmailg/nanocoder/general)
   [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&style=flat-square)](https://www.python.org/)
@@ -104,6 +104,7 @@ export BASE_URL="https://openrouter.ai/api/v1"
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
 ---
+
 
 
 
